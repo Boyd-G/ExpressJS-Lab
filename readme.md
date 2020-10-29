@@ -1,7 +1,7 @@
 # REQUIRED
-1. Create a new project using npm init.
-2. Install express and save it to your package.json file using --save.
-3. Create an express server that responds to the root get request ('/') with  ```"Hello from the web server side..."```.
+1. Create a new project using ```npm init```.
+2. Install express and save it to your ```package.json``` file using ```--save```.
+3. Create an express server that responds to the root get request ('```/```') with  ```"Hello from the web server side..."```.
 * Listen on port 3000.
 4. Use ```express.static``` to serve files from a folder named ```public``` in the root of your project.
 * Create an ```index.html``` file.
