@@ -1,0 +1,27 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "expressjs lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boyd-G/ExpressJS-Lab.git"
+  },
+  "keywords": [
+    "express",
+    "js"
+  ],
+  "author": "Boyd-G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boyd-G/ExpressJS-Lab/issues"
+  },
+  "homepage": "https://github.com/Boyd-G/ExpressJS-Lab#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
